@@ -39,3 +39,11 @@ class MyApp extends StatelessWidget {
 
 // </dict>
 // </plist>
+////////////////
+//?المكتبات التي  تضاف  
+  // cupertino_icons: ^1.0.8
+
+  // audioplayers: ^6.0.0
+  // permission_handler: ^11.3.1
+  // path_provider: ^2.1.4
+  // record: ^3.0.0//! يجب مراعاة الاصدار وجعله 3.0.0
